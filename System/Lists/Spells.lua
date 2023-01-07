@@ -2780,6 +2780,7 @@ br.lists.spells = {
                 hammerOfJustice             = 853,
                 hammerOfWrath               = 24275,
                 handOfReckoning             = 62124,
+		intercession		    = 391054
                 judgment                    = 20271,
                 layOnHands                  = 633,
                 redemption                  = 7328,
